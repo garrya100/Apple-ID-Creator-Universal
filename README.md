@@ -1,7 +1,7 @@
 Apple-ID-Creator-Universal
 ==========================
 
-Universal Yosemite and iTunes 12.0/12.1
+Universal Yosemite and iTunes 12.0/12.1/12.2
 
 This a major rewrite of the original Apple ID creator script. To use it, set the country code in the top of the script. You can also customise it by just setting a single customisation and deleting the ones you don't need. 
 I know that this script doesn't follow best practice as it declares a lot of global variables at the top rather than keeping them inside the functions, but it was the easiest way to make it understandable and configurable by non-coders.
